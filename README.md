@@ -7,7 +7,7 @@ Please acknowledge use of this code by including this header.
 
 PHP / MySQL
 
-@author	 Chirp
+@author	 Chirp 
 @author	 Ind (@_thinkholic)
 
 @Github	 https://github.com/thinkholic/Export-Data-to-Excel-from-MySQL-DB-Table-PHP
