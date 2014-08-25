@@ -12,8 +12,8 @@
  * @author	Chirp
  * @author	Ind (@_thinkholic)
  *
- * Credits- http://www.the-art-of-web.com/php/dataexport/
- * Github ahref- 
+ * @Github	https://github.com/thinkholic/Export-Data-to-Excel-from-MySQL-DB-Table-PHP
+ * @credits	http://www.the-art-of-web.com/php/dataexport/
  *
  * Last updated: 25/08/2014
  
